@@ -1,0 +1,97 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Weight_Kg,Standard_Cost_INR,Criticality
+PRD001,Cartons Model 01,Packaging Materials,Cartons,2.82,?554.02,High
+PRD002,Pallets Model 02,Packaging Materials,Pallets,6.60,?337.94,Medium
+PRD003,Stretch Film Model 03,Packaging Materials,Stretch Film,1.38,?538.66,Medium
+PRD004,Cartons Model 04,Packaging Materials,Cartons,1.19,?356.65,High
+PRD005,Pallets Model 05,Packaging Materials,Pallets,6.96,?121.11,Medium
+PRD006,Stretch Film Model 06,Packaging Materials,Stretch Film,6.20,?483.08,Medium
+PRD007,Cartons Model 07,Packaging Materials,Cartons,7.10,?295.24,Medium
+PRD008,Pallets Model 08,Packaging Materials,Pallets,2.27,?863.06,Medium
+PRD009,Stretch Film Model 09,Packaging Materials,Stretch Film,6.45,?97.06,Medium
+PRD010,Cartons Model 10,Packaging Materials,Cartons,3.07,?735.80,Low
+PRD011,Pallets Model 11,Packaging Materials,Pallets,6.53,?686.25,High
+PRD012,Stretch Film Model 12,Packaging Materials,Stretch Film,7.64,?747.82,Medium
+PRD013,Bearings Model 01,Industrial Components,Bearings,11.20,"?3,248.72",Medium
+PRD014,Fasteners Model 02,Industrial Components,Fasteners,16.09,"?1,575.82",Medium
+PRD015,Valves Model 03,Industrial Components,Valves,4.44,"?6,162.99",Medium
+PRD016,Bearings Model 04,Industrial Components,Bearings,2.70,"?5,790.89",Medium
+PRD017,Fasteners Model 05,Industrial Components,Fasteners,4.46,"?3,316.62",Low
+PRD018,Valves Model 06,Industrial Components,Valves,7.35,"?4,694.19",Low
+PRD019,Bearings Model 07,Industrial Components,Bearings,1.80,"?6,847.07",Low
+PRD020,Fasteners Model 08,Industrial Components,Fasteners,7.88,"?2,058.86",High
+PRD021,Valves Model 09,Industrial Components,Valves,10.26,?603.75,High
+PRD022,Bearings Model 10,Industrial Components,Bearings,16.85,"?4,282.77",Low
+PRD023,Fasteners Model 11,Industrial Components,Fasteners,3.66,"?1,439.36",Low
+PRD024,Valves Model 12,Industrial Components,Valves,17.89,"?3,741.09",Medium
+PRD025,Sensors Model 01,Electrical & Electronics,Sensors,2.44,"?8,846.56",High
+PRD026,Cables Model 02,Electrical & Electronics,Cables,3.10,"?7,653.39",Medium
+PRD027,Controllers Model 03,Electrical & Electronics,Controllers,4.26,"?14,892.87",High
+PRD028,Sensors Model 04,Electrical & Electronics,Sensors,0.59,?574.10,High
+PRD029,Cables Model 05,Electrical & Electronics,Cables,0.40,"?2,264.80",Low
+PRD030,Controllers Model 06,Electrical & Electronics,Controllers,2.20,"?4,976.75",Medium
+PRD031,Sensors Model 07,Electrical & Electronics,Sensors,2.08,"?6,987.18",Medium
+PRD032,Cables Model 08,Electrical & Electronics,Cables,1.79,"?8,814.37",Medium
+PRD033,Controllers Model 09,Electrical & Electronics,Controllers,1.28,"?2,742.20",Medium
+PRD034,Sensors Model 10,Electrical & Electronics,Sensors,1.89,"?5,408.47",Medium
+PRD035,Cables Model 11,Electrical & Electronics,Cables,3.50,"?10,532.59",High
+PRD036,Controllers Model 12,Electrical & Electronics,Controllers,1.17,?611.83,High
+PRD037,PPE Model 01,Safety Supplies,PPE,4.13,"?2,801.90",High
+PRD038,Fire Safety Model 02,Safety Supplies,Fire Safety,4.34,"?2,829.08",Medium
+PRD039,Safety Signage Model 03,Safety Supplies,Safety Signage,1.72,"?2,018.39",Medium
+PRD040,PPE Model 04,Safety Supplies,PPE,1.78,?980.87,Medium
+PRD041,Fire Safety Model 05,Safety Supplies,Fire Safety,4.61,?933.33,Medium
+PRD042,Safety Signage Model 06,Safety Supplies,Safety Signage,3.06,?448.03,Medium
+PRD043,PPE Model 07,Safety Supplies,PPE,2.78,"?1,509.52",High
+PRD044,Fire Safety Model 08,Safety Supplies,Fire Safety,3.38,?742.43,Low
+PRD045,Safety Signage Model 09,Safety Supplies,Safety Signage,0.56,?394.68,High
+PRD046,PPE Model 10,Safety Supplies,PPE,0.30,?432.71,Medium
+PRD047,Fire Safety Model 11,Safety Supplies,Fire Safety,1.41,"?1,818.66",Medium
+PRD048,Safety Signage Model 12,Safety Supplies,Safety Signage,1.71,"?1,503.50",Low
+PRD049,Peripherals Model 01,Office & IT Supplies,Peripherals,1.85,"?1,307.28",Medium
+PRD050,Stationery Model 02,Office & IT Supplies,Stationery,2.17,"?1,424.67",High
+PRD051,Networking Model 03,Office & IT Supplies,Networking,0.50,"?8,350.99",High
+PRD052,Peripherals Model 04,Office & IT Supplies,Peripherals,0.40,"?1,677.74",Medium
+PRD053,Stationery Model 05,Office & IT Supplies,Stationery,4.18,"?2,603.74",Medium
+PRD054,Networking Model 06,Office & IT Supplies,Networking,1.68,?237.42,Low
+PRD055,Peripherals Model 07,Office & IT Supplies,Peripherals,4.60,"?9,482.34",High
+PRD056,Stationery Model 08,Office & IT Supplies,Stationery,0.67,"?1,493.29",Medium
+PRD057,Networking Model 09,Office & IT Supplies,Networking,0.49,"?10,553.37",High
+PRD058,Peripherals Model 10,Office & IT Supplies,Peripherals,1.42,"?6,094.75",Medium
+PRD059,Stationery Model 11,Office & IT Supplies,Stationery,4.82,"?5,073.90",High
+PRD060,Networking Model 12,Office & IT Supplies,Networking,1.00,"?8,875.23",Medium
+PRD061,Filters Model 01,Automotive Parts,Filters,1.11,"?4,463.37",Low
+PRD062,Belts Model 02,Automotive Parts,Belts,11.64,"?6,179.00",Low
+PRD063,Brake Components Model 03,Automotive Parts,Brake Components,2.05,"?5,774.50",Medium
+PRD064,Filters Model 04,Automotive Parts,Filters,19.78,"?2,214.00",Low
+PRD065,Belts Model 05,Automotive Parts,Belts,16.63,"?6,555.66",Medium
+PRD066,Brake Components Model 06,Automotive Parts,Brake Components,19.62,?945.72,Low
+PRD067,Filters Model 07,Automotive Parts,Filters,15.27,"?8,283.23",Medium
+PRD068,Belts Model 08,Automotive Parts,Belts,2.43,"?5,504.88",Low
+PRD069,Brake Components Model 09,Automotive Parts,Brake Components,4.74,"?7,630.08",Medium
+PRD070,Filters Model 10,Automotive Parts,Filters,8.19,"?2,324.76",Medium
+PRD071,Belts Model 11,Automotive Parts,Belts,9.54,"?2,935.73",Low
+PRD072,Brake Components Model 12,Automotive Parts,Brake Components,15.68,"?8,025.17",Low
+PRD073,Hand Tools Model 01,Maintenance & Tools,Hand Tools,7.16,"?3,042.09",Medium
+PRD074,Power Tools Model 02,Maintenance & Tools,Power Tools,0.58,"?10,407.73",Medium
+PRD075,Lubricants Model 03,Maintenance & Tools,Lubricants,6.51,"?7,188.49",Medium
+PRD076,Hand Tools Model 04,Maintenance & Tools,Hand Tools,9.53,"?6,487.98",Medium
+PRD077,Power Tools Model 05,Maintenance & Tools,Power Tools,4.13,"?7,601.89",Low
+PRD078,Lubricants Model 06,Maintenance & Tools,Lubricants,10.51,"?6,799.02",Medium
+PRD079,Hand Tools Model 07,Maintenance & Tools,Hand Tools,5.63,"?9,771.77",Low
+PRD080,Power Tools Model 08,Maintenance & Tools,Power Tools,1.49,"?8,914.10",Medium
+PRD081,Lubricants Model 09,Maintenance & Tools,Lubricants,2.97,"?4,486.51",Medium
+PRD082,Hand Tools Model 10,Maintenance & Tools,Hand Tools,11.80,?740.03,High
+PRD083,Power Tools Model 11,Maintenance & Tools,Power Tools,8.78,"?9,742.12",Medium
+PRD084,Lubricants Model 12,Maintenance & Tools,Lubricants,10.06,"?3,367.36",Medium
+PRD085,Sanitizers Model 01,Medical & Hygiene Supplies,Sanitizers,1.82,?673.01,Medium
+PRD086,Disposables Model 02,Medical & Hygiene Supplies,Disposables,2.51,?30.79,High
+PRD087,First Aid Model 03,Medical & Hygiene Supplies,First Aid,3.16,"?2,467.92",Low
+PRD088,Sanitizers Model 04,Medical & Hygiene Supplies,Sanitizers,3.23,"?1,160.06",Medium
+PRD089,Disposables Model 05,Medical & Hygiene Supplies,Disposables,2.19,"?1,816.50",Medium
+PRD090,First Aid Model 06,Medical & Hygiene Supplies,First Aid,3.77,"?2,246.25",Low
+PRD091,Sanitizers Model 07,Medical & Hygiene Supplies,Sanitizers,0.31,"?1,478.66",Low
+PRD092,Disposables Model 08,Medical & Hygiene Supplies,Disposables,2.23,?156.50,Medium
+PRD093,First Aid Model 09,Medical & Hygiene Supplies,First Aid,2.83,"?4,232.43",Low
+PRD094,Sanitizers Model 10,Medical & Hygiene Supplies,Sanitizers,1.82,"?2,457.93",Medium
+PRD095,Disposables Model 11,Medical & Hygiene Supplies,Disposables,0.10,"?4,340.91",Medium
+PRD096,First Aid Model 12,Medical & Hygiene Supplies,First Aid,1.76,?920.21,Medium

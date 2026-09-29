@@ -1,0 +1,49 @@
+Supplier_ID,Supplier_Name,Supplier_Tier,Primary_Category,City,State,Region,Country,Contract_Start,Contract_End
+SUP001,Vertex Manufacturing,Standard,Packaging Materials,Ahmedabad,Gujarat,West,India,2024-09-02,2026-03-17
+SUP002,Sapphire Manufacturing,Preferred,Industrial Components,Ludhiana,Punjab,North,India,2024-09-06,2026-07-31
+SUP003,NexGen Procure Solutions,Standard,Electrical & Electronics,Rajkot,Gujarat,West,India,2024-03-15,2026-05-06
+SUP004,Apex Enterprises,Standard,Safety Supplies,Surat,Gujarat,West,India,2024-05-01,2026-02-27
+SUP005,Vertex TradeWorks,Standard,Office & IT Supplies,Indore,Madhya Pradesh,Central,India,2024-05-19,2025-12-08
+SUP006,Frontier Components,Standard,Automotive Parts,Gurugram,Haryana,North,India,2024-07-02,2026-10-02
+SUP007,Nova Supply Co,Preferred,Maintenance & Tools,Ludhiana,Punjab,North,India,2024-09-20,2026-08-12
+SUP008,Allied Industrial Supplies,Standard,Medical & Hygiene Supplies,Coimbatore,Tamil Nadu,South,India,2024-08-02,2026-07-03
+SUP009,Pioneer Materials,Preferred,Packaging Materials,Hyderabad,Telangana,South,India,2024-06-18,2026-11-13
+SUP010,Pioneer Systems,Standard,Industrial Components,Hyderabad,Telangana,South,India,2024-01-23,2025-10-21
+SUP011,Trident Components,Preferred,Electrical & Electronics,Gurugram,Haryana,North,India,2024-08-06,2026-04-07
+SUP012,Rapid Materials,Strategic,Safety Supplies,Jaipur,Rajasthan,North,India,2024-09-13,2026-06-26
+SUP013,Fusion Enterprises,Strategic,Office & IT Supplies,Pune,Maharashtra,West,India,2024-05-09,2026-05-13
+SUP014,Everline Logistics Supply,Preferred,Automotive Parts,Mumbai,Maharashtra,West,India,2024-09-17,2026-04-15
+SUP015,Metro Distribution,Standard,Maintenance & Tools,Kochi,Kerala,South,India,2024-08-19,2026-05-23
+SUP016,Allied Manufacturing,Strategic,Medical & Hygiene Supplies,Rajkot,Gujarat,West,India,2024-03-15,2026-01-27
+SUP017,Rapid TradeWorks,Standard,Packaging Materials,Surat,Gujarat,West,India,2024-05-25,2026-10-23
+SUP018,Metro Supply Co,Preferred,Industrial Components,Vadodara,Gujarat,West,India,2024-02-01,2026-03-28
+SUP019,Metro Components,Strategic,Electrical & Electronics,Kolkata,West Bengal,East,India,2024-01-03,2025-08-01
+SUP020,Frontier Manufacturing,Standard,Safety Supplies,Lucknow,Uttar Pradesh,North,India,2024-10-21,2027-01-05
+SUP021,Zenith Systems,Standard,Office & IT Supplies,Chennai,Tamil Nadu,South,India,2024-04-17,2026-06-23
+SUP022,Prime Materials,Standard,Automotive Parts,Bhopal,Madhya Pradesh,Central,India,2024-02-07,2025-12-13
+SUP023,NexGen Materials,Standard,Maintenance & Tools,Rajkot,Gujarat,West,India,2024-09-04,2026-04-14
+SUP024,Vertex Materials,Standard,Medical & Hygiene Supplies,Indore,Madhya Pradesh,Central,India,2024-08-13,2026-09-18
+SUP025,Everline Systems,Preferred,Packaging Materials,Coimbatore,Tamil Nadu,South,India,2024-05-20,2026-05-21
+SUP026,Orbit Logistics Supply,Preferred,Industrial Components,Ahmedabad,Gujarat,West,India,2024-06-25,2026-06-04
+SUP027,Allied Commercials,Standard,Electrical & Electronics,Indore,Madhya Pradesh,Central,India,2024-05-24,2026-03-08
+SUP028,Vector Components,Preferred,Safety Supplies,Bengaluru,Karnataka,South,India,2024-01-08,2025-07-31
+SUP029,Rapid Manufacturing,Standard,Office & IT Supplies,Delhi,Delhi,North,India,2024-05-22,2026-04-16
+SUP030,NexGen Commercials,Standard,Automotive Parts,Mumbai,Maharashtra,West,India,2024-03-01,2026-01-08
+SUP031,ZENITH INDUSTRIAL SUPPLIES,Standard,Maintenance & Tools,Mumbai,Maharashtra,West,India,2024-02-04,2026-04-09
+SUP032,Trident Procure Solutions,Preferred,Medical & Hygiene Supplies,Kolkata,West Bengal,East,India,2024-05-06,2026-01-04
+SUP033,Delta Systems,Standard,Packaging Materials,Bhopal,Madhya Pradesh,Central,India,2024-03-15,2026-02-20
+SUP034,Everline Procure Solutions,Strategic,Industrial Components,Hyderabad,Telangana,South,India,2024-10-04,2026-10-09
+SUP035,Apex Distribution,Standard,Electrical & Electronics,Hyderabad,Telangana,South,India,2024-05-14,2026-01-02
+SUP036,Allied Supply Co,Standard,Safety Supplies,Coimbatore,Tamil Nadu,South,India,2024-04-23,2026-07-31
+SUP037,Everline Components,Standard,Office & IT Supplies,Surat,Gujarat,West,India,2024-09-22,2026-04-09
+SUP038,Vector Supply Co,Standard,Automotive Parts,Vadodara,Gujarat,West,India,2024-08-07,2026-06-12
+SUP039,Metro Commercials,Standard,Maintenance & Tools,Kolkata,West Bengal,East,India,2024-09-19,2027-02-23
+SUP040,Rapid Commercials,Standard,Medical & Hygiene Supplies,Lucknow,Uttar Pradesh,North,India,2024-10-01,2026-04-07
+SUP041,Apex TradeWorks,Strategic,Packaging Materials,Kolkata,West Bengal,East,India,2024-01-15,2026-03-31
+SUP042,Pioneer TradeWorks,Strategic,Industrial Components,Bengaluru,Karnataka,South,India,2024-10-11,2027-03-15
+SUP043,Everline Supply Co,Preferred,Electrical & Electronics,Kochi,Kerala,South,India,2024-07-22,2026-02-09
+SUP044,Sapphire Procure Solutions,Strategic,Safety Supplies,Surat,Gujarat,West,India,2024-01-06,2025-08-18
+SUP045,Summit Manufacturing,Standard,Office & IT Supplies,Coimbatore,Tamil Nadu,South,India,2024-04-15,2025-10-02
+SUP046,Nova Distribution,Strategic,Automotive Parts,Indore,Madhya Pradesh,Central,India,2024-02-11,2025-07-12
+SUP047,CoreLink Supply Co,Preferred,Maintenance & Tools,Delhi,Delhi,North,India,2024-06-05,2026-09-02
+SUP048,Everline Enterprises,Standard,Medical & Hygiene Supplies,Noida,Uttar Pradesh,North,India,2024-09-11,2026-10-02
