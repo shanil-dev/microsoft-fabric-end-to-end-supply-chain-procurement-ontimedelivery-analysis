@@ -60,11 +60,9 @@ Management previously faced challenges tracking actual procurement spend against
 ## Key Insights
 
 ### 1. Spend Variance & Budget Alignment
-<p align="left">
-  <img width="48%"   alt="Actual Vs Target Spend" src="https://github.com/user-attachments/assets/35ecd9cd-616e-4882-8828-f030e4e4657b" />
-</p><p align="right">
-  <img width="48%"  alt="Spend Variance By Category" src="https://github.com/user-attachments/assets/15167ca2-c86f-4678-b882-660a02a058a7" />
-
+<p align="center">
+  <img width="48%" alt="Actual Vs Target Spend" src="https://github.com/user-attachments/assets/35ecd9cd-616e-4882-8828-f030e4e4657b" />
+  <img width="48%" alt="Spend Variance By Category" src="https://github.com/user-attachments/assets/15167ca2-c86f-4678-b882-660a02a058a7" />
 </p>
 
 * **Budget Utilization:** Total actual spend stands at 991.9M out of a 1.02B total budget.
