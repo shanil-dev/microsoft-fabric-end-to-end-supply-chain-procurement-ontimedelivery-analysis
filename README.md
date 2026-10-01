@@ -96,7 +96,10 @@ Management previously faced challenges tracking actual procurement spend against
 <p align="center">
   <img width="48%" alt="Frieght Cost Distribution" src="https://github.com/user-attachments/assets/738683d8-5e0a-4df3-9ebd-79d99088ad84" />
 </p>
+  &nbsp;&nbsp;
+  
 * **Freight Cost Breakdown:** Air transport comprises 51.54% (12.44M) of total freight costs, compared to Road at 37.39% (9.02M) and Rail at 11.08% (2.67M).
+
   &nbsp;&nbsp;
   <p align="center">
   <img width="48%" alt="Carrier OTD vs SLA" src="https://github.com/user-attachments/assets/24d0f296-6ce9-496d-b7f1-90c7898557e9" />
