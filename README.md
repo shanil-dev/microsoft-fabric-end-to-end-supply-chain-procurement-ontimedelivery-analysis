@@ -61,8 +61,9 @@ Management previously faced challenges tracking actual procurement spend against
 
 ### 1. Spend Variance & Budget Alignment
 <p align="center">
-  <img width="48%" alt="Actual vs Target Spend" src="https://github.com/user-attachments/assets/actual-vs-target-spend.png" />
-  &nbsp;&nbsp;
+  <img width="48%"   alt="Actual Vs Target Spend" src="https://github.com/user-attachments/assets/35ecd9cd-616e-4882-8828-f030e4e4657b" />
+
+  &nbsp;
   <img width="48%" alt="Spend Variance by Category" src="https://github.com/user-attachments/assets/spend-variance-category.png" />
 </p>
 
