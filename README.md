@@ -62,8 +62,9 @@ Management previously faced challenges tracking actual procurement spend against
 ### 1. Spend Variance & Budget Alignment
 <p align="center">
   <img width="48%"   alt="Actual Vs Target Spend" src="https://github.com/user-attachments/assets/35ecd9cd-616e-4882-8828-f030e4e4657b" />
-
+</p>
   &nbsp;&nbsp;
+  <p align="center">
   <img width="48%"  alt="Spend Variance By Category" src="https://github.com/user-attachments/assets/15167ca2-c86f-4678-b882-660a02a058a7" />
 
 </p>
@@ -84,8 +85,9 @@ Management previously faced challenges tracking actual procurement spend against
 ### 3. Supplier Pricing & Quality Risk
 <p align="center">
   <img width="48%"  alt="Monthly PPV" src="https://github.com/user-attachments/assets/f7375edb-339c-4582-ace6-569538aafd55" />
-
+</p>
   &nbsp;&nbsp;
+  <p align="center">
   <img width="48%" alt="PPV By Supplier" src="https://github.com/user-attachments/assets/2ab7bff4-fc36-4111-9768-e3d008ad60ee" />
 
 </p>
@@ -97,8 +99,9 @@ Management previously faced challenges tracking actual procurement spend against
 ### 4. Logistics Cost & Carrier Efficiency
 <p align="center">
   <img width="48%" alt="Frieght Cost Distribution" src="https://github.com/user-attachments/assets/738683d8-5e0a-4df3-9ebd-79d99088ad84" />
-
+</p>
   &nbsp;&nbsp;
+  <p align="center">
   <img width="48%" alt="Carrier OTD vs SLA" src="https://github.com/user-attachments/assets/24d0f296-6ce9-496d-b7f1-90c7898557e9" />
 
 </p>
