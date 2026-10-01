@@ -63,8 +63,9 @@ Management previously faced challenges tracking actual procurement spend against
 <p align="center">
   <img width="48%"   alt="Actual Vs Target Spend" src="https://github.com/user-attachments/assets/35ecd9cd-616e-4882-8828-f030e4e4657b" />
 
-  &nbsp;
-  <img width="48%" alt="Spend Variance by Category" src="https://github.com/user-attachments/assets/spend-variance-category.png" />
+  &nbsp;&nbsp;
+  <img width="48%"  alt="Spend Variance By Category" src="https://github.com/user-attachments/assets/15167ca2-c86f-4678-b882-660a02a058a7" />
+
 </p>
 
 * **Budget Utilization:** Total actual spend stands at 991.9M out of a 1.02B total budget.
@@ -73,7 +74,8 @@ Management previously faced challenges tracking actual procurement spend against
 
 ### 2. Delay Root Cause Analysis
 <p align="center">
-  <img width="500" alt="Delay Breakdown" src="https://github.com/user-attachments/assets/delay-breakdown.png" />
+  <img width="500" alt="Delay breakdown" src="https://github.com/user-attachments/assets/87aa4299-0884-4410-a3ef-0e536a14b7fc" />
+
 </p>
 
 * **Transport Mode Distribution:** Road transport accounts for the majority of delayed shipments (248 cases), followed by Rail (104 cases) and Air (69 cases).
@@ -81,9 +83,11 @@ Management previously faced challenges tracking actual procurement spend against
 
 ### 3. Supplier Pricing & Quality Risk
 <p align="center">
-  <img width="48%" alt="Monthly PPV" src="https://github.com/user-attachments/assets/monthly-ppv.png" />
+  <img width="48%"  alt="Monthly PPV" src="https://github.com/user-attachments/assets/f7375edb-339c-4582-ace6-569538aafd55" />
+
   &nbsp;&nbsp;
-  <img width="48%" alt="PPV by Supplier" src="https://github.com/user-attachments/assets/ppv-supplier.png" />
+  <img width="48%" alt="PPV By Supplier" src="https://github.com/user-attachments/assets/2ab7bff4-fc36-4111-9768-e3d008ad60ee" />
+
 </p>
 
 * **Price Volatility:** September recorded the largest shift in contracted purchase prices.
@@ -92,9 +96,11 @@ Management previously faced challenges tracking actual procurement spend against
 
 ### 4. Logistics Cost & Carrier Efficiency
 <p align="center">
-  <img width="48%" alt="Freight Cost Distribution" src="https://github.com/user-attachments/assets/freight-distribution.png" />
+  <img width="48%" alt="Frieght Cost Distribution" src="https://github.com/user-attachments/assets/738683d8-5e0a-4df3-9ebd-79d99088ad84" />
+
   &nbsp;&nbsp;
-  <img width="48%" alt="Carrier OTD vs SLA" src="https://github.com/user-attachments/assets/carrier-otd.png" />
+  <img width="48%" alt="Carrier OTD vs SLA" src="https://github.com/user-attachments/assets/24d0f296-6ce9-496d-b7f1-90c7898557e9" />
+
 </p>
 
 * **Freight Cost Breakdown:** Air transport comprises 51.54% (12.44M) of total freight costs, compared to Road at 37.39% (9.02M) and Rail at 11.08% (2.67M).
