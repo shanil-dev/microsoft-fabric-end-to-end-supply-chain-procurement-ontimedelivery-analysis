@@ -51,7 +51,7 @@ Management previously faced challenges tracking actual procurement spend against
 
 <div align="center"><h3>Executive Summary</h3></div>
 
-* **Spend & Budget Tracking:** Total actual spend reached 991.94M against a total budget target of 1.02B[cite: 7]. August recorded both the highest monthly target and budget variance. **Safety Supplies** emerged as the category with the highest spend-target gap at 11.3M.
+* **Spend & Budget Tracking:** Total actual spend reached 991.94M against a total budget target of 1.02B. August recorded both the highest monthly target and budget variance. **Safety Supplies** emerged as the category with the highest spend-target gap at 11.3M.
 * **Supplier Risk & Pricing:** Orders are predominantly classified under Medium supplier risk (74.04%), while CoreLink Supply Co recorded the highest purchase price variance among suppliers. **Vector Component** exhibits the highest volume of rejected units among all carriers due to maximum rejections.
 * **Logistics & Carrier Performance:** Transportation delay is inversely proportional to freight cost; Air freight commands the highest cost share (51.54%) with minimal delay cases. **Delhivery B2B** stands out as a cost-effective, high-speed logistics partner due to its low freight costs and rapid delivery windows. Conversely, **GATI Industrial** recorded the highest SLA gap, and September recorded the lowest overall OTD performance.
 
@@ -96,13 +96,13 @@ Management previously faced challenges tracking actual procurement spend against
 <p align="center">
   <img width="48%" alt="Frieght Cost Distribution" src="https://github.com/user-attachments/assets/738683d8-5e0a-4df3-9ebd-79d99088ad84" />
 </p>
+* **Freight Cost Breakdown:** Air transport comprises 51.54% (12.44M) of total freight costs, compared to Road at 37.39% (9.02M) and Rail at 11.08% (2.67M).
   &nbsp;&nbsp;
   <p align="center">
   <img width="48%" alt="Carrier OTD vs SLA" src="https://github.com/user-attachments/assets/24d0f296-6ce9-496d-b7f1-90c7898557e9" />
 
 </p>
 
-* **Freight Cost Breakdown:** Air transport comprises 51.54% (12.44M) of total freight costs, compared to Road at 37.39% (9.02M) and Rail at 11.08% (2.67M).
 * **Carrier Benchmarks:** Delhivery B2B achieves strong delivery reliability (91.0% OTD against a 72.34% SLA baseline) with rapid transit days, outperforming carriers like GATI Industrial, which suffers from the highest SLA gap.
 
 ---
