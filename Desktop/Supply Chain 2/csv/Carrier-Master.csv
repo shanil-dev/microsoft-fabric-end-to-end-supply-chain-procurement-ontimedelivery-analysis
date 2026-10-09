@@ -1,0 +1,9 @@
+Carrier_ID,Carrier_Name,Mode_Specialization,SLA_On_Time_Target,Contract_Rate_Index
+CAR01,BlueDart Freight,Air/Road,94.0%,1.20
+CAR02,Delhivery B2B,Road,91.0%,1.00
+CAR03,TCI Express,Road/Rail,92.0%,0.96
+CAR04,VRL Logistics,Road,89.0%,0.88
+CAR05,Safexpress,Road,93.0%,1.04
+CAR06,GATI Industrial,Road/Air,90.0%,1.08
+CAR07,RailCargo Connect,Rail,87.0%,0.82
+CAR08,SwiftHaul Logistics,Road/Rail,88.0%,0.90

@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,City,State,Region,Capacity_Tonnes
+WH001,Indore Central DC,Indore,Madhya Pradesh,Central,3000
+WH002,Mumbai West DC,Mumbai,Maharashtra,West,3000
+WH003,Delhi NCR DC,Delhi,Delhi,North,3000
+WH004,Bengaluru South DC,Bengaluru,Karnataka,South,1200
+WH005,Hyderabad South DC,Hyderabad,Telangana,South,1800
+WH006,Chennai South DC,Chennai,Tamil Nadu,South,1200
+WH007,Kolkata East DC,Kolkata,West Bengal,East,1200
+WH008,Pune West DC,Pune,Maharashtra,West,1800
+WH009,Ahmedabad West DC,Ahmedabad,Gujarat,West,1500
+WH010,Lucknow North DC,Lucknow,Uttar Pradesh,North,1800

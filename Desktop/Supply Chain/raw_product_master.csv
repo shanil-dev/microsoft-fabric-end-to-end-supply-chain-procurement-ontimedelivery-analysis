@@ -1,0 +1,41 @@
+sku,product_name,category,brand,unit_cost
+SKU-0001,Nordmark Grocery Item 01,Grocery,Nordmark,5.13
+SKU-0002,Fjord Household Item 02,Household,Fjord,3.83
+SKU-0003,Nordmark Grocery Item 03,Grocery,Nordmark,4.33
+SKU-0004,Nordmark Grocery Item 04,Grocery,Nordmark,1.7
+SKU-0005,Nordmark Household Item 05,Household,Nordmark,7.83
+SKU-0006,Fjord Electronics Item 06,Electronics,Fjord,18.48
+SKU-0007,Nordmark Personal Care Item 07,Personal Care,Nordmark,11.86
+SKU-0008,Eira Household Item 08,Household,Eira,5.73
+SKU-0009,Fjord Household Item 09,Household,Fjord,11.59
+SKU-0010,Nordmark Personal Care Item 10,Personal Care,Nordmark,3.21
+SKU-0011,Polar Grocery Item 11,Grocery,Polar,5.69
+SKU-0012,Nordmark Personal Care Item 12,Personal Care,Nordmark,11.49
+SKU-0013,Eira Grocery Item 13,Grocery,Eira,1.62
+SKU-0014,Polar Personal Care Item 14,Personal Care,Polar,9.51
+SKU-0015,Nordmark Grocery Item 15,Grocery,Nordmark,4.7
+SKU-0016,Nordmark Personal Care Item 16,Personal Care,Nordmark,13.12
+SKU-0017,Eira Grocery Item 17,Grocery,Eira,2.67
+SKU-0018,Fjord Personal Care Item 18,Personal Care,Fjord,6.81
+SKU-0019,Polar Household Item 19,Household,Polar,9.17
+SKU-0020,Fjord Grocery Item 20,Grocery,Fjord,4.03
+SKU-0021,Fjord Household Item 21,Household,Fjord,6.89
+SKU-0022,Fjord Personal Care Item 22,Personal Care,Fjord,10.9
+SKU-0023,Fjord Grocery Item 23,Grocery,Fjord,5.56
+SKU-0024,Eira Personal Care Item 24,Personal Care,Eira,5.48
+SKU-0025,Polar Household Item 25,Household,Polar,4.52
+SKU-0026,Eira Electronics Item 26,Electronics,Eira,31.54
+SKU-0027,Fjord Electronics Item 27,Electronics,Fjord,12.95
+SKU-0028,Polar Household Item 28,Household,Polar,9.6
+SKU-0029,Eira Electronics Item 29,Electronics,Eira,15.86
+SKU-0030,Eira Household Item 30,Household,Eira,3.36
+SKU-0031,Nordmark Grocery Item 31,Grocery,Nordmark,2.01
+SKU-0032,Eira Household Item 32,Household,Eira,8.17
+SKU-0033,Eira Electronics Item 33,Electronics,Eira,22.88
+SKU-0034,Polar Electronics Item 34,Electronics,Polar,34.13
+SKU-0035,Nordmark Grocery Item 35,Grocery,Nordmark,4.81
+SKU-0036,Polar Personal Care Item 36,Personal Care,Polar,3.45
+SKU-0037,Fjord Electronics Item 37,Electronics,Fjord,18.61
+SKU-0038,Fjord Personal Care Item 38,Personal Care,Fjord,8.6
+SKU-0039,Polar Grocery Item 39,Grocery,Polar,5.66
+SKU-0040,Fjord Household Item 40,Household,Fjord,6.05
